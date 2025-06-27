@@ -1,0 +1,26 @@
+Requisitos do sistema do NutriFit:
+
+1- O sistema deve permitir o cadastro de usuários com nome, idade, peso, altura e objetivo.
+
+2- O sistema deve permitir que o usuário selecione um objetivo entre: perder peso, ganhar massa ou manter peso.
+
+3- O sistema deve gerar uma dieta padrão baseada no objetivo do usuário.
+
+4- O sistema deve permitir cadastrar restrições alimentares (ex: lactose, glúten, vegetariano).
+
+5- O sistema deve permitir que o usuário visualize suas dietas recomendadas.
+
+6- O sistema deve permitir a edição dos dados do usuário (peso, altura, objetivo etc.).
+
+7- O sistema deve sugerir dicas saudáveis com base no objetivo do usuário.
+
+8- O sistema deve permitir excluir o cadastro de um usuário e todos os dados relacionados.
+
+9- O sistema não deve permitir cadastrar um peso menor que 30kg ou maior que 200kg.
+
+10- O sistema não deve permitir cadastrar altura fora do intervalo de 1.0m a 2.5m.
+
+11- O sistema não deve permitir objetivos em branco ou inválidos.
+
+12- O sistema deve validar que a idade do usuário esteja entre 12 e 90 anos.
+
